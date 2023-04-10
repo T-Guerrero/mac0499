@@ -1,0 +1,21 @@
+{
+  "name": "mac0499",
+  "version": "0.0.1",
+  "description": "Website of my Bachelor's conclusion project",
+  "main": "index.js",
+  "authors": {
+    "name": "Thiago Guerrero",
+    "email": "tgbalera@hotmail.com"
+  },
+  "repository": "/mac0499",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-social-share": "^1.3.0",
+    "vuepress-theme-default-prefers-color-scheme": "^2.0.0"
+  }
+}
