@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Integrating Software Engineer tools into a platform for remote work in Software Startups
+heroText: "Improving Modifiability in Microservices Architectures: A reference implementation for a remote work platform in Software Startups"
 tagline: Computer Science Bachelor's conclusion project
 title: Thiago Guerrero
 actionText: See Proposal →
@@ -16,7 +16,9 @@ features:
 
 ## Context
 
-This work will be made in the context of the **Digi-dojo project** being developed at the Free University of Bolzano (Unibz). The Digi-dojo project is a platform to support development teams in Software Startups that work remotely. The goal is to provide for those teams the interactive and creative environment of a startup. In this work, the focus will be in the integration of existing Software Engineer tools with the platform, which has a microservices-based architecture. As part of the scope of this work, one of the challenges will be to identify extension points on the platform in order to allow other tools to be integrated in the future.
+This work aims to investigate the impact of modifications on microservices architectures and propose
+effective solutions to address some of the issues identified. It will be conducted in the context of the **Digi-dojo project**, being developed at the Free University of BozenBolzano (unibz). The Digi-dojo project is a platform designed to support development teams in Software Startups that work remotely. The goal is to provide for those teams the interactive and creative environment of a startup. One of the focus of this project is the integration of existing Software Engineer tools with the platform, which has a
+microservices-based architecture. As part of the scope of this work, one of the challenges will be to identify extension points on the platform to allow additional tools to be integrated in the future.
 
 ::: slot footer
 Made by [Thiago Guerrero](https://www.linkedin.com/in/thiago-guerrero/) | University Of São Paulo (USP) - 2023

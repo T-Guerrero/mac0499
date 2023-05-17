@@ -1,6 +1,6 @@
 # MAC0499 - Trabalho de Formatura Supervisionado
 
-Repository dedicated to the discipline MAC0499 - Supervised Graduation Thesis - given in 2023
+Repository dedicated to the discipline MAC0499 - Capstone Project - given in 2023
 
 Professor responsible for the discipline: Nina Sumiko Tomita Hirata
 

@@ -1,6 +1,6 @@
 ---
 title: Proposal
-description: Here you can find my proposal of work for the current year.
+description: Here you can find my proposal for this work.
 ---
 
 # {{ $frontmatter.title }}
@@ -8,6 +8,7 @@ description: Here you can find my proposal of work for the current year.
 **{{ $frontmatter.description }}**
 
 --- 
-*In progress*
+
+<iframe src="/proposal.pdf" title="proposalPdf" width="100%" height="600" style="border:none;"></iframe>
 
 ---

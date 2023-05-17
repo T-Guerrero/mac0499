@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  title: 'MAC0499 - Trabalho de Formatura Supervisionado',
+  title: 'MAC0499 - Capstone Project',
   description: description,
   base: '/mac0499/',
 
