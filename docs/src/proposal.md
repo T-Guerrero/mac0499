@@ -9,6 +9,6 @@ description: Here you can find my proposal for this work.
 
 --- 
 
-<iframe src="/mac0499/proposal.pdf" title="proposalPdf" width="100%" height="600" style="border:none;"></iframe>
+<iframe :src="$withBase('/proposal.pdf')" title="proposalPdf" width="100%" height="600" style="border:none;"></iframe>
 
 ---
