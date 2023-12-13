@@ -31,11 +31,15 @@ module.exports = {
       },
       { 
         text: 'Proposal',
-        link: '/Proposal/',
+        link: '/Proposal',
       },
       {
         text: 'Monography',
-        link: '/monography/',
+        link: '/monography',
+      },
+      {
+        text: 'Presentation',
+        link: '/presentation',
       }
     ]
   },
