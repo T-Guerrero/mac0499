@@ -17,7 +17,7 @@ module.exports = {
     repo: 'https://github.com/Digi-Dojo',
     repoLabel: 'Code',
     docsRepo: 'https://github.com/T-Guerrero/mac0499',
-    docsDir: 'docs',
+    docsDir: 'docs/src',
     docsBranch: 'main',
     editLinks: true,
     lastUpdated: true,
