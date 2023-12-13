@@ -8,9 +8,9 @@ actionLink: /proposal/
 features:
 - title: Thiago Guerrero - Author
   details: Institute of Mathematics and Statistics of the University of São Paulo (IME-USP)
-- title: Prof. Dr. Eduardo Martins Guerra - Supervisor
+- title: Prof. Dr. Eduardo Martins Guerra - Advisor
   details: Free University of Bolzano (Unibz)
-- title: MSc. João Francisco Lino Daniel - Supervisor
+- title: MSc. João Francisco Lino Daniel - Advisor
   details: Free University of Bolzano (Unibz)
 ---
 
