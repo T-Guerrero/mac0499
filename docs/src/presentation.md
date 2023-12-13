@@ -19,4 +19,19 @@ description: Here you can find my presentation about all the work produced this 
 
 [See original](https://docs.google.com/presentation/d/1j4JImnFtACdHYUJg10aKwLRjyQlWhknRerY3qtc8HoY)
 
+
+<iframe 
+src="https://drive.google.com/file/d/1IcLKeLCLRHElEpXRCEXgLTGIH2CoJYKG/preview" 
+frameborder="0" 
+width="100%" height="480"
+allow="autoplay"></iframe>
+
+::: tip INFO
+Sorry for the noise in the background 😢
+:::
+
+::: warning
+The monography isn't available yet. The ETA is Mid January
+:::
+
 ---
