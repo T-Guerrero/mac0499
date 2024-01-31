@@ -3,8 +3,8 @@ home: true
 heroText: "Improving Modifiability in Microservices Architectures: A reference implementation for a remote work platform in Software Startups"
 tagline: Computer Science Bachelor's conclusion project
 title: Thiago Guerrero
-actionText: See Proposal →
-actionLink: /proposal/
+actionText: See Thesis →
+actionLink: /monography/
 features:
 - title: Thiago Guerrero - Author
   details: Institute of Mathematics and Statistics of the University of São Paulo (IME-USP)

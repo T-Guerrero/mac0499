@@ -8,6 +8,7 @@ description: Here you can find my final paper with all the work produced this ye
 **{{ $frontmatter.description }}**
 
 --- 
-*In progress*
+
+<iframe :src="$withBase('/thesis.pdf')" title="thesisPdf" width="100%" height="800" frameborder="0"></iframe>
 
 ---
